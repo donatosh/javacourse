@@ -1,6 +1,4 @@
-package javaschool.basics.homework_1.lib;
-
-
+package introduction.homework_1.lib;
 
 public abstract class Transport {
     private int a;
